@@ -107,7 +107,7 @@
 									"font": "Source Code Pro;15;0",
 									"left": 290.5,
 									"top": 80,
-									"width": 127,
+									"width": 126,
 									"height": 42,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFqMqaFOd0X/zE="
@@ -523,7 +523,7 @@
 									"font": "Source Code Pro;15;0",
 									"left": 305,
 									"top": 237,
-									"width": 82,
+									"width": 81,
 									"height": 27,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFqMqqtR92Tw/I="
@@ -734,7 +734,7 @@
 									"font": "Source Code Pro;15;0",
 									"left": 290.5,
 									"top": 312,
-									"width": 127,
+									"width": 126,
 									"height": 42,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFqMquHDt3DZl0="
@@ -946,7 +946,7 @@
 									"font": "Source Code Pro;15;0",
 									"left": 301,
 									"top": 405,
-									"width": 100,
+									"width": 99,
 									"height": 27,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFqMqyQNt3zoNg="
@@ -1158,7 +1158,7 @@
 									"font": "Source Code Pro;15;0",
 									"left": 295,
 									"top": 480,
-									"width": 109,
+									"width": 108,
 									"height": 42,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFqMqybid4giUI="
@@ -1330,9 +1330,9 @@
 											"fillColor": "#6cd800",
 											"font": "Source Code Pro;15;1",
 											"left": 312,
-											"top": 578,
+											"top": 585.5,
 											"width": 80,
-											"height": 45,
+											"height": 30,
 											"text": "Cadastrar  Produtos ",
 											"wordWrap": true
 										},
@@ -1369,9 +1369,9 @@
 									"fillColor": "#6cd800",
 									"font": "Source Code Pro;15;0",
 									"left": 307,
-									"top": 571,
-									"width": 91,
-									"height": 57,
+									"top": 578.5,
+									"width": 90,
+									"height": 42,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFqMqymvN5NOyM="
 									},
